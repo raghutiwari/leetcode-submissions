@@ -15,4 +15,16 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/raghutiwari/leetcode-submissions/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/raghutiwari/leetcode-submissions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/raghutiwari/leetcode-submissions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

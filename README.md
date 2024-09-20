@@ -27,4 +27,16 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/raghutiwari/leetcode-submissions/tree/master/0231-power-of-two) |
+## Depth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/raghutiwari/leetcode-submissions/tree/master/0871-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/raghutiwari/leetcode-submissions/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/raghutiwari/leetcode-submissions/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->

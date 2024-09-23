@@ -7,10 +7,12 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,4 +41,16 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/raghutiwari/leetcode-submissions/tree/master/0871-keys-and-rooms) |
+## String
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->

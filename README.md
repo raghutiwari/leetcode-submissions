@@ -32,10 +32,12 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0100-same-tree) |
 | [0871-keys-and-rooms](https://github.com/raghutiwari/leetcode-submissions/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0100-same-tree) |
 | [0871-keys-and-rooms](https://github.com/raghutiwari/leetcode-submissions/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
@@ -53,4 +55,12 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
@@ -50,6 +51,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
@@ -63,4 +65,8 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

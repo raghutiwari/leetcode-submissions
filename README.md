@@ -9,6 +9,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
@@ -75,8 +76,10 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

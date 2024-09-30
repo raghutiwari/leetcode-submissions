@@ -8,6 +8,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | ------- |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghutiwari/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raghutiwari/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raghutiwari/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |

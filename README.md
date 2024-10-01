@@ -6,6 +6,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/raghutiwari/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghutiwari/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -110,5 +111,6 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->

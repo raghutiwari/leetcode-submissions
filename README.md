@@ -6,6 +6,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/raghutiwari/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghutiwari/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghutiwari/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/raghutiwari/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghutiwari/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -98,4 +100,8 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raghutiwari/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/raghutiwari/leetcode-submissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

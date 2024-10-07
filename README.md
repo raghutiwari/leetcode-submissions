@@ -19,6 +19,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0303-range-sum-query-immutable](https://github.com/raghutiwari/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
@@ -27,6 +28,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0217-contains-duplicate](https://github.com/raghutiwari/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
@@ -109,6 +111,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raghutiwari/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/raghutiwari/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0525-contiguous-array) |
 ## Divide and Conquer
 |  |
 | ------- |

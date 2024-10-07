@@ -42,7 +42,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
-| [0643-maximum-average-subarray-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0643-maximum-average-subarray-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) | STARRED
 ## Math
 |  |
 | ------- |

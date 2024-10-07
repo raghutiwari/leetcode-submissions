@@ -31,6 +31,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raghutiwari/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raghutiwari/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
@@ -46,6 +47,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/raghutiwari/leetcode-submissions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -140,6 +142,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0015-3sum](https://github.com/raghutiwari/leetcode-submissions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/raghutiwari/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghutiwari/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0202-happy-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Design
 |  |

@@ -19,6 +19,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0217-contains-duplicate](https://github.com/raghutiwari/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/raghutiwari/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/raghutiwari/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -53,6 +54,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/raghutiwari/leetcode-submissions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0033-search-in-rotated-sorted-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghutiwari/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +146,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0141-linked-list-cycle](https://github.com/raghutiwari/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghutiwari/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Design
 |  |

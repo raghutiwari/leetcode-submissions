@@ -76,6 +76,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## String
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghutiwari/leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -102,12 +103,14 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghutiwari/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghutiwari/leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghutiwari/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghutiwari/leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |

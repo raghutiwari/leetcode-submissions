@@ -26,6 +26,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0525-contiguous-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghutiwari/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
@@ -111,6 +112,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0011-container-with-most-water](https://github.com/raghutiwari/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghutiwari/leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +131,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | ------- |
 | [0015-3sum](https://github.com/raghutiwari/leetcode-submissions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/raghutiwari/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -137,6 +140,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0303-range-sum-query-immutable](https://github.com/raghutiwari/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghutiwari/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +161,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghutiwari/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Design
 |  |
@@ -166,4 +171,8 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raghutiwari/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->

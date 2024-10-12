@@ -26,6 +26,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0525-contiguous-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghutiwari/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/raghutiwari/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -119,6 +120,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0084-largest-rectangle-in-histogram](https://github.com/raghutiwari/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/raghutiwari/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghutiwari/leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
@@ -126,6 +128,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0084-largest-rectangle-in-histogram](https://github.com/raghutiwari/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raghutiwari/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/raghutiwari/leetcode-submissions/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |

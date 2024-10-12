@@ -63,12 +63,14 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/raghutiwari/leetcode-submissions/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/raghutiwari/leetcode-submissions/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
@@ -95,11 +97,13 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/raghutiwari/leetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Greedy
 |  |

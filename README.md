@@ -82,6 +82,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghutiwari/leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/1304-longest-happy-string) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0011-container-with-most-water](https://github.com/raghutiwari/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghutiwari/leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
@@ -177,5 +179,6 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->

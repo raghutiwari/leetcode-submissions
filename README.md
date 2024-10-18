@@ -86,6 +86,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/raghutiwari/leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/1304-longest-happy-string) |
+| [1894-merge-strings-alternately](https://github.com/raghutiwari/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -170,6 +171,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghutiwari/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [1894-merge-strings-alternately](https://github.com/raghutiwari/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Design

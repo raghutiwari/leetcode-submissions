@@ -27,6 +27,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0560-subarray-sum-equals-k](https://github.com/raghutiwari/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/raghutiwari/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/raghutiwari/leetcode-submissions/tree/master/0739-daily-temperatures) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/raghutiwari/leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/raghutiwari/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/2755-extra-characters-in-a-string) |
@@ -57,6 +58,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | ------- |
 | [0231-power-of-two](https://github.com/raghutiwari/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/raghutiwari/leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -181,4 +183,12 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | ------- |
 | [1304-longest-happy-string](https://github.com/raghutiwari/leetcode-submissions/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/raghutiwari/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/raghutiwari/leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/raghutiwari/leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->

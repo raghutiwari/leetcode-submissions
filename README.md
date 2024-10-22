@@ -10,6 +10,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0015-3sum](https://github.com/raghutiwari/leetcode-submissions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/raghutiwari/leetcode-submissions/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/raghutiwari/leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/raghutiwari/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghutiwari/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -194,6 +195,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/raghutiwari/leetcode-submissions/tree/master/0051-n-queens) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/raghutiwari/leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |

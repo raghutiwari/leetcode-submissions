@@ -9,6 +9,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 | [0011-container-with-most-water](https://github.com/raghutiwari/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raghutiwari/leetcode-submissions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raghutiwari/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/raghutiwari/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/raghutiwari/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raghutiwari/leetcode-submissions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghutiwari/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -35,6 +36,7 @@ To keep a personal record of all my Leetcode submissions using an awesome Firefo
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/raghutiwari/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/raghutiwari/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/raghutiwari/leetcode-submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raghutiwari/leetcode-submissions/tree/master/0217-contains-duplicate) |
